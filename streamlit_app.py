@@ -1,6 +1,6 @@
 # Import python packages
 import streamlit as st
-import pandas
+import pandas as pd
 from snowflake.snowpark.functions import col
 import requests
 # from snowflake.snowpark.context import get_active_session
